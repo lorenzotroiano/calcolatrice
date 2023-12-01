@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+/* .text-center {
+    text-align: center;
+    height: 120px;
+    background-color: orange;
+    padding: 40px;
+} */
+
+/* #container {
+    background-color: violet;
+    width: 60%;
+    height: 600px;
+    margin: 30px auto;
+
+    padding: 20px;
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+} */
